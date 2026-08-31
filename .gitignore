@@ -1,0 +1,18 @@
+# 本地模型权重、处理后数据和训练输出体积较大，不提交到 GitHub。
+models/
+data/
+outputs/
+
+# Python 临时文件。
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+
+# 本机编辑器配置。
+.vscode/
+
+# 本地环境与日志。
+.env
+*.log
+
