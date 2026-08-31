@@ -1,0 +1,15 @@
+torch==2.10.0
+transformers==5.3.0
+trl==0.27.2
+accelerate==1.13.0
+datasets==4.8.3
+tokenizers==0.22.2
+huggingface_hub==1.7.2
+wandb==0.25.1
+weave==0.52.35
+PyYAML==6.0
+numpy==1.26.0
+pandas==2.1.4
+pyarrow==23.0.1
+tqdm==4.67.3
+safetensors==0.7.0
